@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">dq的小米手环</string>
+    <string name="connect">连接手环</string>
+    <string name="battery">当前电量</string>
+    <string name="user_info">设置用户信息</string>
+    <string name="heartrate">测心率</string>
+    <string name="vibration">手环震动</string>
+    <string name="realtimeSteps">开始实时步数</string>
+    <string name="stoprealtimeSteps">停止实时步数</string>
+	
+</resources>
